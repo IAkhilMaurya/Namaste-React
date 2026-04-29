@@ -7,6 +7,7 @@ const Title = () => {
     </h1>
 };
 
+
 // composing components
 const HeaderComponents  = () => {
     return (
